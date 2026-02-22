@@ -8,17 +8,17 @@
 
 ## About Me
 
-I work at the intersection of spatial omics, cancer biology, and
-translational reasoning.
+I work at the intersection of spatial omics, cancer biology, and translational reasoning.
 
-My focus is not just statistical discovery --- but mechanistic
-interpretation. I design reproducible computational workflows that
-integrate single-cell and spatial transcriptomics with therapeutic
-logic, clinical covariates, and biological coherence.
+My focus is not just statistical discovery, but mechanistic interpretation. 
+I design reproducible computational workflows that integrate single-cell and 
+spatial transcriptomics with therapeutic logic, clinical covariates, and biological coherence.
 
-With training in Pharmaceutical Sciences and Biotechnology, I bring
-pathophysiology awareness and treatment-effect intuition into
-computational oncology research.
+With training in Pharmaceutical Sciences and Biotechnology, 
+I bring pathophysiology awareness and treatment-effect intuition 
+into computational oncology research.
+
+From study design to publication-ready figures, **I’m your guy.**
 
 ------------------------------------------------------------------------
 
@@ -105,7 +105,6 @@ Developing toward a hybrid role combining:
 
 -   Lead bioinformatics infrastructure\
 -   Translational oncology strategy\
--   Mechanism-aware computational modeling
 
 ------------------------------------------------------------------------
 
