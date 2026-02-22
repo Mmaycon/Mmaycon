@@ -84,7 +84,7 @@ project-name/
 ├── config.yaml
 ├── environment.yml
 └── README.md
-
+```
 ------------------------------------------------------------------------
 
 ## Leadership & Engagement
