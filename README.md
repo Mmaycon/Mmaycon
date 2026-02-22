@@ -49,7 +49,7 @@ computational oncology research.
 **Languages:** R, Python, Shell
 
 **Bioinformatics Packages & Toolkits:**\
-Seurat, Scanpy, spacec, SOPA, DESeq2, WGCNA, clusterProfiler, GSEA, minfi, caret,
+Seurat, Scanpy, spacec, rapids-singlecell, scverse, SOPA, DESeq2, WGCNA, clusterProfiler, GSEA, minfi, caret,
 randomForest, scikit-learn, STAR, CellRanger, SpaceRanger, FeatureCounts
 
 **Spatial Omics Platforms:**\
