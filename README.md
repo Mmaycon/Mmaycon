@@ -1,16 +1,75 @@
-## Hi there 👋
+# Maycon Marção
 
-<!--
-**Mmaycon/Mmaycon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 **Translational Bioinformatics Scientist**\
+🏥 Center of Spatial Omics -- St. Jude Children's Research Hospital\
+🧪 Pharmaceutical Sciences background
 
-Here are some ideas to get you started:
+------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I work at the intersection of spatial omics, cancer biology, and
+translational reasoning.
+
+My focus is not just statistical discovery --- but mechanistic
+interpretation. I design reproducible computational workflows that
+integrate single-cell and spatial transcriptomics with therapeutic
+logic, clinical covariates, and biological coherence.
+
+With training in Pharmaceutical Sciences and Biotechnology, I bring
+pathophysiology awareness and treatment-effect intuition into
+computational oncology research.
+
+------------------------------------------------------------------------
+
+## Research Focus
+
+-   Spatial transcriptomics (Visium, Xenium, CosMx, GeoMx)
+-   Single-cell RNA-seq analysis
+-   DNA methylation modeling
+-   Machine learning for biological phenotyping
+-   Treatment-response and stemness modeling
+-   Translational hypothesis generation
+
+------------------------------------------------------------------------
+
+## Selected Contributions
+
+-   Co-author -- *Nature Biotechnology* (Spatial transcriptomics
+    reproducibility standards)
+-   Co-author -- *Cell* (STAMP multimodal spatial analysis framework)
+-   Multiple publications on machine learning--based stemness modeling
+    in cancer
+
+------------------------------------------------------------------------
+
+## Technical Stack
+
+**Languages:** R, Python\
+**Frameworks:** Seurat, Scanpy, DESeq2, WGCNA, GSEA\
+**Spatial Platforms:** Visium, Xenium, CosMx, GeoMx\
+**Reproducibility:** Git, Conda, structured workflows\
+**Data Submission:** GEO-compliant multi-omics datasets
+
+------------------------------------------------------------------------
+
+## Leadership & Engagement
+
+-   Team Lead -- St. Jude BioHackathon 2025\
+-   Intern Mentor -- Center of Spatial Omics\
+-   Poster Presenter -- Society for Neuro-Oncology\
+-   Contributor -- Space Hack 3.0
+
+------------------------------------------------------------------------
+
+## Professional Direction
+
+Developing toward a hybrid role combining:
+
+-   Lead bioinformatics infrastructure\
+-   Translational oncology strategy\
+-   Mechanism-aware computational modeling
+
+------------------------------------------------------------------------
+
+🔗 GitHub: https://github.com/Mmaycon
