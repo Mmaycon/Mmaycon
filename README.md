@@ -107,9 +107,9 @@ Developing toward a hybrid role combining:
 
 ------------------------------------------------------------------------
 
-🔗 GitHub: https://github.com/Mmaycon
-🔗 LinkedIn: https://github.com/Mmaycon
-🔗 Publications: https://scholar.google.com/citations?user=ACk8bV4AAAAJ&hl=en
+🔗 GitHub: https://github.com/Mmaycon\
+🔗 LinkedIn: https://github.com/Mmaycon\
+🔗 Publications: https://scholar.google.com/citations?user=ACk8bV4AAAAJ&hl=en\
 🔗 St. Jude, Dr. Plummer Team: https://www.stjude.org/research/labs/plummer-lab/plummer-lab-team.html
 
  
