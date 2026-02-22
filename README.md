@@ -63,7 +63,7 @@ GEO-compliant multi-omics dataset preparation and metadata
 standardization
 
 **Management tools:**\
-Notion, Clockfy, Office tools, BioRender & Inkscape (Paper Figure Editing), BOX (data sharing), ChatGPT, Claude AI
+Notion, Clockify, Office tools, BioRender & Inkscape (Paper Figure Editing), BOX (data sharing), ChatGPT, Claude AI
 
 ------------------------------------------------------------------------
 
