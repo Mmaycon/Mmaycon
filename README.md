@@ -46,7 +46,7 @@ computational oncology research.
 
 ## Technical Stack
 
-**Languages:** R, Python, Shell
+**Languages and Frameworks:** R, Python, Shell, Streamlit
 
 **Bioinformatics Packages & Toolkits:**\
 Seurat, Scanpy, spacec, rapids-singlecell, scverse, SOPA, DESeq2, WGCNA, clusterProfiler, GSEA, minfi, caret,
@@ -56,12 +56,14 @@ randomForest, scikit-learn, STAR, CellRanger, SpaceRanger, FeatureCounts
 Visium, Xenium, CosMx, GeoMx, Phenocycler
 
 **Reproducibility & Workflow:**\
-Git, GitHub, Conda, structured project architecture
+Git, GitHub, Conda, NextFlow, structured project architecture
 
 **Data Submission & Compliance:**\
 GEO-compliant multi-omics dataset preparation and metadata
 standardization
 
+**Management tools:**\
+Notion, Clockfy, Office tools, BioRender & Inkscape (Paper Figure Editing), BOX (data sharing), ChatGPT, Claude AI
 
 ------------------------------------------------------------------------
 
