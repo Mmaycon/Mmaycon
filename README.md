@@ -24,9 +24,10 @@ computational oncology research.
 
 ## Research Focus
 
--   Spatial transcriptomics (Visium, Xenium, CosMx, GeoMx)
+-   Spatial transcriptomics (Visium, Xenium, CosMx, GeoMx, Phenocycler)
 -   Single-cell RNA-seq analysis
--   DNA methylation modeling
+-   Bulk RNA-seq analysis 
+-   DNA methylation modeling (450k and EPIC Illumina array)
 -   Machine learning for biological phenotyping
 -   Treatment-response and stemness modeling
 -   Translational hypothesis generation
@@ -45,11 +46,22 @@ computational oncology research.
 
 ## Technical Stack
 
-**Languages:** R, Python\
-**Frameworks:** Seurat, Scanpy, DESeq2, WGCNA, GSEA\
-**Spatial Platforms:** Visium, Xenium, CosMx, GeoMx\
-**Reproducibility:** Git, Conda, structured workflows\
-**Data Submission:** GEO-compliant multi-omics datasets
+**Languages:** R, Python, Shell
+
+**Bioinformatics Packages & Toolkits:**\
+Seurat, Scanpy, spacec, SOPA, DESeq2, WGCNA, clusterProfiler, GSEA, minfi, caret,
+randomForest, scikit-learn, STAR, CellRanger, SpaceRanger, FeatureCounts
+
+**Spatial Omics Platforms:**\
+Visium, Xenium, CosMx, GeoMx, Phenocycler
+
+**Reproducibility & Workflow:**\
+Git, GitHub, Conda, structured project architecture
+
+**Data Submission & Compliance:**\
+GEO-compliant multi-omics dataset preparation and metadata
+standardization
+
 
 ------------------------------------------------------------------------
 
