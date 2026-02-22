@@ -64,8 +64,9 @@ standardization
 
 ------------------------------------------------------------------------
 
-## Structured Project Architecture 
 ```text
+## Structured Project Architecture
+
 project-name/
 ├── data_raw/            # Original unmodified data
 ├── data_processed/      # Cleaned / normalized outputs
