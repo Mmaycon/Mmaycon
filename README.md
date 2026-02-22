@@ -62,6 +62,30 @@ Git, GitHub, Conda, structured project architecture
 GEO-compliant multi-omics dataset preparation and metadata
 standardization
 
+------------------------------------------------------------------------
+
+## Structured Project Architecture 
+project-name/
+│
+├── data_raw/
+├── data_processed/
+├── metadata/
+├── scripts/
+│   ├── 01_qc.R
+│   ├── 02_normalization.R
+│   ├── 03_integration.R
+│   ├── 04_analysis.R
+│
+├── results/
+│   ├── tables/
+│   ├── figures/
+│
+├── reports/
+│   └── analysis_report.qmd
+│
+├── config.yaml
+├── environment.yml
+└── README.md
 
 ------------------------------------------------------------------------
 
