@@ -1,6 +1,6 @@
 # Maycon Marção
 
-🧬 **Translational Bioinformatics Scientist**\
+🧬 **Translational Bioinformatics Analyst**\
 🏥 Center of Spatial Omics -- St. Jude Children's Research Hospital\
 🧪 Pharmaceutical Sciences background
 
