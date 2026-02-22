@@ -65,6 +65,7 @@ standardization
 ------------------------------------------------------------------------
 
 ## Structured Project Architecture
+
 ```text
 project-name/
 ├── data_raw/            # Original unmodified data
@@ -83,7 +84,6 @@ project-name/
 ├── config.yaml
 ├── environment.yml
 └── README.md
-```text
 
 ------------------------------------------------------------------------
 
