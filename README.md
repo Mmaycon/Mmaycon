@@ -65,24 +65,21 @@ standardization
 ------------------------------------------------------------------------
 
 ## Structured Project Architecture 
+```text
 project-name/
-│
-├── data_raw/
-├── data_processed/
-├── metadata/
-├── scripts/
+├── data_raw/            # Original unmodified data
+├── data_processed/      # Cleaned / normalized outputs
+├── metadata/            # Sample sheets and annotations
+├── scripts/             # Modular analysis scripts
 │   ├── 01_qc.R
 │   ├── 02_normalization.R
 │   ├── 03_integration.R
-│   ├── 04_analysis.R
-│
+│   └── 04_analysis.R
 ├── results/
 │   ├── tables/
-│   ├── figures/
-│
+│   └── figures/
 ├── reports/
 │   └── analysis_report.qmd
-│
 ├── config.yaml
 ├── environment.yml
 └── README.md
