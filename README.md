@@ -67,29 +67,6 @@ Notion, Clockify, Office tools, BioRender & Inkscape (Paper Figure Editing), BOX
 
 ------------------------------------------------------------------------
 
-## Structured Project Architecture
-
-```text
-project-name/
-├── data_raw/            # Original unmodified data
-├── data_processed/      # Cleaned / normalized outputs
-├── metadata/            # Sample sheets and annotations
-├── scripts/             # Modular analysis scripts
-│   ├── 01_qc.R
-│   ├── 02_normalization.R
-│   ├── 03_integration.R
-│   └── 04_analysis.R
-├── results/
-│   ├── tables/
-│   └── figures/
-├── reports/
-│   └── analysis_report.qmd
-├── config.yaml
-├── environment.yml
-└── README.md
-```
-------------------------------------------------------------------------
-
 ## Leadership & Engagement
 
 -   Team Lead -- St. Jude BioHackathon 2025\
