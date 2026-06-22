@@ -2,7 +2,7 @@
 
 🧬 **Translational Bioinformatics Analyst**\
 🏥 Center of Spatial OMICs -- St. Jude Children's Research Hospital\
-🧪 Pharmaceutical Sciences background
+🧪 Pharmaceutical Sciences degree
 
 ------------------------------------------------------------------------
 
